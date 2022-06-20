@@ -326,18 +326,80 @@ grid-column-end: 4;
   justify-content: flex-end;
   }
   /* Level 2 */
+  #pond {
+    display: flex;
+  justify-content: center;
+  }
   /* Level 3 */
+  #pond {
+    display: flex;
+  justify-content: space-around;
+  }
   /* Level 4 */
+  #pond {
+    display: flex;
+  justify-content: space-between;
+  }
   /* Level 5 */
+  #pond {
+    display: flex;
+  align-items: flex-end;
+  }
   /* Level 6 */
+  #pond {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }
   /* Level 7 */
+  #pond {
+    display: flex;
+  justify-content: space-around;
+  align-items: end ;
+  }
   /* Level 8 */
+  #pond {
+    display: flex;
+  flex-direction: row-reverse;
+  }
   /* Level 9 */
+  #pond {
+    display: flex;
+  flex-direction: column ;
+  }
   /* Level 10 */
+  #pond {
+    display: flex;
+  flex-direction: row-reverse; 
+  justify-content: start; 
+  }
   /* Level 11 */
+  #pond {
+    display: flex;
+  flex-direction: column;
+  justify-content: end ;
+  }
   /* Level 12 */
+  #pond {
+    display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+  }
   /* Level 13 */
+  #pond {
+    display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: end;
+  }
   /* Level 14 */
+  #pond {
+    display: flex;
+  }
+  
+  .yellow {
+  order: 1;
+  }
   /* Level 15 */
   /* Level 16 */
   /* Level 17 */
