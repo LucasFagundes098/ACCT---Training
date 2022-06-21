@@ -26,3 +26,20 @@ Aprendi uma nova função que ajuda nos cálculos **eval()**
 ![image](https://user-images.githubusercontent.com/62566792/174821959-06bfcba7-ccb7-4ad8-9dfc-55065a487331.png)
 
 
+------------------------------------------------------------------------------------------------------------------
+
+**Módulo 02**
+</br>
+*Exercício de React - Hello World*
+
+Esse exercício foi feito para dar os primeiros passos utilizando react.
+Fiz 10 **Hello World** em diferentes linguas, além de colocar a data atual do meu sistema utilizando **Date** 
+
+`const newDate = new Date();`
+</br>
+ `const date = `${newDate.getDate()}/${newDate.getMonth()+1}/${newDate.getFullYear()}/`;`
+ 
+ [Para saber mais sobre Date()](https://www.w3schools.com/js/js_dates.asp)
+
+![image](https://user-images.githubusercontent.com/62566792/174866119-55a3b6f7-d36c-4e2e-a931-65addebec6e3.png)
+
