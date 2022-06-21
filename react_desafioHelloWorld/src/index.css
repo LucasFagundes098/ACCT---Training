@@ -1,0 +1,57 @@
+body{
+    background-color: #F8F5EC;
+ }
+/* NAVBAR */
+* {
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #333;
+  }
+  .navbar {
+    padding: 20px;
+    display: flex; 
+    align-items: center;
+  }
+  .navbar h1 {
+    color: #68756c;
+    margin-left: 13em;
+  }
+  .navbar .navbar-links {
+    margin-left: auto;
+    margin-left: 25em;
+    line-height: 20px;
+  }
+  .navbar a {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+  }
+  .navbar a:hover {
+    color: #68756c;
+  }
+  .navbar-links .cart-icon  {
+    font-size: 1.1em;
+    margin-top: 25px;
+    line-height: 20px;
+  }
+
+  /* APP */
+.app {
+    height: 100vh;
+    background-color: #F8F5EC;
+    background-size: cover;
+    background-position: center center;
+    justify-content: center;
+    align-items: center;
+  }
+  .container{
+    width: 734px;
+    height: 485px;
+    background-color: #FFFFFF;
+    box-shadow: 0 3px 10px rgba(0,0,0,.15);
+    border-radius: 20px;
+    padding: 24px;
+    align-items: center;
+    margin-left: 18em;
+    overflow-y: auto;
+  }
