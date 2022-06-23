@@ -37,9 +37,24 @@ Fiz 10 **Hello World** em diferentes linguas, além de colocar a data atual do m
 
 `const newDate = new Date();`
 </br>
- `const date = `${newDate.getDate()}/${newDate.getMonth()+1}/${newDate.getFullYear()}/`;`
+ `const date = ${newDate.getDate()}/${newDate.getMonth()+1}/${newDate.getFullYear()}/;`
  
  [Para saber mais sobre Date()](https://www.w3schools.com/js/js_dates.asp)
 
 ![image](https://user-images.githubusercontent.com/62566792/174866119-55a3b6f7-d36c-4e2e-a931-65addebec6e3.png)
+</br>
+
+
+*APIs e Postman - APIs Vtex*
+</br>
+Nessa última parte do módulo estudei sobre API e postman, estudando não somente API gerais/públicas mas também as API disponiveis pela Vtex </br>
+Para a entrega do exercício aqui o Curl.
+
+{{account_name}}/api/dataentities/{{data+entity_name}}/search?_fields=email,firstName,document&_schema=schema
+
+------------------------------------------------------------------------------------------------------------------
+
+
+
+
 
