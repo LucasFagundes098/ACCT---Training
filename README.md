@@ -75,10 +75,15 @@ Para a entrega do exercício aqui o Curl.
 </br>
 
 5-) Criar 1 produto.
+![image](https://user-images.githubusercontent.com/62566792/176512295-4c2ffaf6-fe32-4fe2-9644-d6ef64809aeb.png)
 </br>
+
 6-) Criar 4 SKUS.
+![image](https://user-images.githubusercontent.com/62566792/176513542-0f716d8e-06dd-4ee1-bd47-ff3747825527.png)
 </br>
+
 7-) Colocar preço e estoque para os SKUS criados.
+![image](https://user-images.githubusercontent.com/62566792/176513948-3fdfc3cd-f9fc-4200-b23a-d49d1dd8ecc8.png)
 </br>
 
 
