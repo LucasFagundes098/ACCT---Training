@@ -54,6 +54,34 @@ Para a entrega do exercício aqui o Curl.
 
 ------------------------------------------------------------------------------------------------------------------
 
+**Módulo 03**
+</br>
+*Exercício prático - Onboarding VTEX*
+
+1-) Criar uma categoria dentro do departamento "Treinamento".
+![image](https://user-images.githubusercontent.com/62566792/176449179-e4feb9e2-086b-452d-8b38-b4e8d892acd2.png)
+</br>
+
+2-) Criar um grupo.
+![image](https://user-images.githubusercontent.com/62566792/176449427-a472e529-f541-4c53-bcfd-d268249817dc.png)
+</br>
+
+3-) Criar 3 campos de produto de pelo menos 2 tipos diferentes.
+![image](https://user-images.githubusercontent.com/62566792/176459076-bf997bcf-a73b-4610-9241-22d44205b57a.png)
+</br>
+
+4-) Criar 2 campos de SKU de diferentes tipos.
+![image](https://user-images.githubusercontent.com/62566792/176460062-66181c4a-d954-49e6-b8b4-030790f8bbef.png)
+</br>
+
+5-) Criar 1 produto.
+</br>
+6-) Criar 4 SKUS.
+</br>
+7-) Colocar preço e estoque para os SKUS criados.
+</br>
+
+
 
 
 
